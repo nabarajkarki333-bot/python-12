@@ -1,0 +1,7 @@
+拡張子 file name 
+ word:docx 
+pp:pptx
+text:txt
+web:html
+photo:jpg
+

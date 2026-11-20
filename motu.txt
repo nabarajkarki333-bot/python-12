@@ -1,0 +1,7 @@
+<html>
+<body>
+<h1>my favorite animal</h1>
+<img sr="cat.jpg"alt="alt="a cat"
+width="300">
+ </body>
+</html>
